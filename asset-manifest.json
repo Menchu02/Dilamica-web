@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Dilamica-web/static/css/main.8642f0ac.css",
+    "main.js": "/Dilamica-web/static/js/main.54ad65ae.js",
+    "static/js/787.f4dfa98b.chunk.js": "/Dilamica-web/static/js/787.f4dfa98b.chunk.js",
+    "static/media/dilamica_rectangular.png": "/Dilamica-web/static/media/dilamica_rectangular.ae248173c3a78b1e7121.png",
+    "index.html": "/Dilamica-web/index.html",
+    "main.8642f0ac.css.map": "/Dilamica-web/static/css/main.8642f0ac.css.map",
+    "main.54ad65ae.js.map": "/Dilamica-web/static/js/main.54ad65ae.js.map",
+    "787.f4dfa98b.chunk.js.map": "/Dilamica-web/static/js/787.f4dfa98b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8642f0ac.css",
+    "static/js/main.54ad65ae.js"
+  ]
+}
