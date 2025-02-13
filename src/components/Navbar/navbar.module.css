@@ -1,0 +1,44 @@
+.titleNetflix {
+  color: rgba(0, 0, 0, 0.861);
+  font-family: 'Montserrat';
+}
+
+.navbarContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white;
+  padding: 10px 100px;
+}
+.navBarButton {
+  border: none;
+  color: white;
+  background-color: #8c52ffde;
+
+  border-radius: 11px;
+  cursor: pointer;
+  font-size: 17px;
+  font-weight: bold;
+  width: 100px;
+  height: 30px;
+}
+.buttonsContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 80px;
+  margin-left: 40px;
+}
+.loginButton {
+  font-size: 50px;
+}
+.imgLogo {
+  width: 375px;
+  height: 110px;
+}
+.buttonContainer {
+  display: flex;
+  gap: 35px;
+}
